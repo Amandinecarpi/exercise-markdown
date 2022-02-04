@@ -17,7 +17,7 @@
 - Nadison\.
 - Khalife\.
 
-[a relative link](markdown.md)
+[a link to markdown](markdown.md)
 
 
 
