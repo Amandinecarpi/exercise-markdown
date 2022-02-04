@@ -14,7 +14,10 @@ Contrairement au langage ***HTML*** reposant sur l'usage de balises, le Markdown
 
 #### Autres éléments
 - tab
-'<!DOCTYPE html>
+- footnote
+- definition list
+- strikethrought
+<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -25,10 +28,7 @@ Contrairement au langage ***HTML*** reposant sur l'usage de balises, le Markdown
 <li>tab3</li>
 </body>
 
-</html>'
-- footnote
-- definition list
-- strikethrought
+</html>
 
 
 ![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
